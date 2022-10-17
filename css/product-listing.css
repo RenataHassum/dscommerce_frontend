@@ -7,5 +7,13 @@
 .dsc-product-listing-image {
   width: 69px;
   height: 69px;
+  display: block;
+}
+
+.dsc-product-listing-btn {
+  height: 20px;
+  width: auto;
+  cursor: pointer;
+  margin: 6px;
 }
 
