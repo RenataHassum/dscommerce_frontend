@@ -274,7 +274,7 @@ nav a {
 }
 
 /*-----------------------------------------------------------------*/
-/* categories formulário + required|disabled|selected html/ */
+/* categories formulário */
 .dsc-select:invalid {
   color: var(--dsc-color-font-placeholder);
 }
