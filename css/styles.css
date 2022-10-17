@@ -273,6 +273,8 @@ nav a {
   padding-left: 4px;
 }
 
+/*-----------------------------------------------------------------*/
+/* categories formulário + required|disabled|selected html/ */
 .dsc-select:invalid {
   color: var(--dsc-color-font-placeholder);
 }
